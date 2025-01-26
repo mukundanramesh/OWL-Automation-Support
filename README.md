@@ -6,7 +6,7 @@ This app is to support few complex scenarios in owl automation
 2.Navigate to the Admin Console.
 3.On the left side of the console, click Plug-ins.
 4.Click ADD NEW PLUG-INS.
-![ADD NEW PLUGIN](Images/Add New Plugins.png)
+![ADD NEW PLUGIN](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/Add%20New%20Plugins.png)
 5.Search for the plug-in by name - Content Tools.
 6.Click on the plug-in name.
 7.Click DEPLOY.
