@@ -62,3 +62,5 @@ This app is to support few complex scenarios in owl automation
 ![CONSTANT-RECORD-TYPES](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/Constant-Record%20Types.png)
 * Use the created Constants in the **OWL Support Tool** site to delete records in the table and Sync the Record Types.
 ![USING CONSTANTS](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/Delete%20and%20Sync%20Records.png)
+* Upon Successful deletion **Deletion Successful!!** message will be displayed
+![USING CONSTANTS](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/Deletion%20Successful.png)
