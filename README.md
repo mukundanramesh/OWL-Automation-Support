@@ -24,7 +24,7 @@ This app is to support few complex scenarios in owl automation
 # How to use OWL Support Tool
 * Once the app is imported the Site **OWL Support Tool** will be available in the widget menu.
 ![SITE HOME PAGE](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/OWL%20Support%20Tool%20-%20Home%20Page.png)
-* Create Stored Porcedures for either Delete , Truncate or Insert .
+* Create Stored Porcedures for either Delete , Truncate or Insert.
     * Example 1:
         '''
             DELIMITER $$
@@ -55,3 +55,10 @@ This app is to support few complex scenarios in owl automation
             SET foreign_key_checks = 1;
             END$$
         '''
+
+* Create constants for the created stored procedures.
+![CONSTANT-STORED-PROCEDURE](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/Constant-Stored%20Procedure.png)
+* Create constants for the Record Types.
+![CONSTANT-RECORD-TYPES](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/Constant-Record%20Types.png)
+* Use the created Constants in the **OWL Support Tool** site to delete records in the table and Sync the Record Types.
+![USING CONSTANTS](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/Delete%20and%20Sync%20Records.png)
