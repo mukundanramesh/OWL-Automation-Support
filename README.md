@@ -25,6 +25,7 @@ This app is to support few complex scenarios in owl automation
 * Once the app is imported the Site **OWL Support Tool** will be available in the widget menu.
 ![SITE HOME PAGE](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/OWL%20Support%20Tool%20-%20Home%20Page.png)
 * Create Stored Porcedures for either Delete , Truncate or Insert.
+![STORED-PROCEDURE](https://github.com/mukundanramesh/OWL-Automation-Support/blob/main/Images/Stored%20Procedure%20Creation.png)
     * Example 1:
         '''
             DELIMITER $$
