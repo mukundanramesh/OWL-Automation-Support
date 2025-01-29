@@ -1,5 +1,5 @@
 # OWL-Automation-Support
-This app is to support few complex scenarios in owl automation
+This app is to support complex scenarios in owl automation
 
 # Plugin Installation:
 * In the target environment, log in as the deployment user.
